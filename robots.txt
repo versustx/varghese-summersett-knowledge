@@ -1,0 +1,3 @@
+# OKF Knowledge Bundle
+User-agent: *
+Allow: /okf/
