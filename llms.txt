@@ -1,0 +1,12 @@
+# Varghese Summersett / VersusTexas.com
+
+> Premier Texas law firm with offices in Fort Worth, Dallas, Southlake, and Houston.
+> Practice areas: Criminal Defense, Federal Criminal Defense, Personal Injury, Family Law, Juvenile Defense.
+
+## Knowledge Graph (OKF Bundle)
+- [Full Knowledge Bundle](/okf/index.md)
+- [Attorneys](/okf/firm/attorneys/index.md)
+- [Criminal Defense](/okf/criminal/state/index.md)
+- [Federal Criminal Defense](/okf/criminal/federal/index.md)
+- [Personal Injury](/okf/personal_injury/index.md)
+- [Family Law](/okf/family_law/index.md)

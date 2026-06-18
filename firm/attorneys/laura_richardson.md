@@ -1,0 +1,21 @@
+---
+type: Attorney
+title: "Laura Richardson"
+description: "Laura Richardson handles Family Law...."
+resource: "https://versustexas.com/attorneys/"
+tags: [attorney, of-counsel]
+timestamp: 2026-06-18T00:00:00Z
+jurisdiction: Texas State
+practice_area: "Family Law"
+related_locations: [Fort Worth, TX]
+board_certified: false
+board_certification_area: ""
+---
+
+# Laura Richardson | Of Counsel
+
+Laura Richardson handles Family Law.
+
+## Metadata
+* **Practice Areas:** Family Law
+* **Locations:** Fort Worth, TX
