@@ -30,3 +30,4 @@ timestamp: 2026-06-18T00:00:00Z
 * [Michael A. Livens](/michael_a_livens.md)
 * [McKenzie Coe](/mckenzie_coe.md)
 * [Christiana Doherty](/christiana_doherty.md)
+* [Craig Jackson](/craig_jackson.md)

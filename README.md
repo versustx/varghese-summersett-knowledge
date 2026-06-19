@@ -154,7 +154,7 @@ tags: [tag1, tag2]
 timestamp: "2026-06-18T00:00:00Z"
 jurisdiction: [Texas State | Federal | Tarrant County | Dallas County | ...]
 practice_area: [Criminal Defense | Federal Criminal Defense | Personal Injury | Family Law | Juvenile Defense]
-statute: "Tex. Penal Code § X.XX"
+statute: "Tex. Penal Code § X.XX"    # criminal nodes only; use Tex. Fam. Code for family law
 related_attorneys: [Attorney Name]
 related_locations: [Fort Worth, Dallas, Houston, Southlake]
 related_concepts: [/path/to/concept.md]
@@ -169,7 +169,7 @@ county_data_year: 2025
 
 ## Board Certified Attorneys
 
-Varghese Summersett has **five Board Certified attorneys** — the highest designation awarded by the Texas Board of Legal Specialization.
+Varghese Summersett has **six Board Certified attorneys** — the highest designation awarded by the Texas Board of Legal Specialization.
 
 | Attorney | Certification | Area |
 |:---------|:-------------|:-----|
@@ -178,6 +178,7 @@ Varghese Summersett has **five Board Certified attorneys** — the highest desig
 | Letty Martinez | Board Certified | Criminal Law |
 | Lisa Herrick | Board Certified | Juvenile Law |
 | Mike Hanson | Board Certified | Juvenile Law |
+| Craig Jackson | Board Certified | Family Law |
 
 ---
 
